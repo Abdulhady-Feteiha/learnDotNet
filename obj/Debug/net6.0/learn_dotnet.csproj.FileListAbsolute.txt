@@ -1,0 +1,15 @@
+/Users/Abdulhady/Dev/learn_dotnet/obj/Debug/net6.0/learn_dotnet.csproj.AssemblyReference.cache
+/Users/Abdulhady/Dev/learn_dotnet/obj/Debug/net6.0/learn_dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Abdulhady/Dev/learn_dotnet/obj/Debug/net6.0/learn_dotnet.AssemblyInfoInputs.cache
+/Users/Abdulhady/Dev/learn_dotnet/obj/Debug/net6.0/learn_dotnet.AssemblyInfo.cs
+/Users/Abdulhady/Dev/learn_dotnet/obj/Debug/net6.0/learn_dotnet.csproj.CoreCompileInputs.cache
+/Users/Abdulhady/Dev/learn_dotnet/obj/Debug/net6.0/learn_dotnet.dll
+/Users/Abdulhady/Dev/learn_dotnet/obj/Debug/net6.0/refint/learn_dotnet.dll
+/Users/Abdulhady/Dev/learn_dotnet/obj/Debug/net6.0/learn_dotnet.pdb
+/Users/Abdulhady/Dev/learn_dotnet/bin/Debug/net6.0/learn_dotnet
+/Users/Abdulhady/Dev/learn_dotnet/bin/Debug/net6.0/learn_dotnet.deps.json
+/Users/Abdulhady/Dev/learn_dotnet/bin/Debug/net6.0/learn_dotnet.runtimeconfig.json
+/Users/Abdulhady/Dev/learn_dotnet/bin/Debug/net6.0/learn_dotnet.dll
+/Users/Abdulhady/Dev/learn_dotnet/bin/Debug/net6.0/learn_dotnet.pdb
+/Users/Abdulhady/Dev/learn_dotnet/obj/Debug/net6.0/learn_dotnet.genruntimeconfig.cache
+/Users/Abdulhady/Dev/learn_dotnet/obj/Debug/net6.0/ref/learn_dotnet.dll
